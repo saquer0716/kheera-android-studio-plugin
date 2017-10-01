@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Kheera/lib/cucumber-core-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Kheera/lib/Kheera.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Kheera/lib/cucumber-jvm-formatter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Kheera/lib/gherkin-2.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
